@@ -47,3 +47,18 @@ print("The Float that Crted or Edited after adding is",Plug)
 Cliv='I 1 2'
 Cliv=str(Cliv)+' 4 Q'
 print("The Word that Crted or Edited after adding is",Cliv)  
+
+# now Let see how to get the user intput and to diplay in the output
+
+Propeties_1=str(input("Enter the Properties need to by..."))
+Propeties_2=int(input("Enter the Properties Count need to by..."))
+
+# as we noted the header now the output section
+
+print("The Properties need to by...",Propeties_1)
+print("The Properties Count need to by...",Propeties_2)
+
+# let see the data type of each input
+
+print("the data type of given properties are",type(Propeties_1))
+print("the data type of given properties count are",type(Propeties_2))
