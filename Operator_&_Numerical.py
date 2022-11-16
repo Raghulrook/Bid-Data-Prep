@@ -25,3 +25,18 @@ print("Modulus of Dick and Pussy",Dick%Pussy) # Modulus
 # Bonus 
 print("Power Multiplication of Dick and Pussy",Dick**Pussy) # Power Multiplication 
 print("Intiger Division of Dick and Pussy",Dick//Pussy) # Intiger Division
+
+# Arithimatic for words like in Practically 
+Dick="RO"
+Pussy="OK"
+
+print("Addition of Dick and Pussy",Dick+Pussy) # Addition
+
+# Rather Addtion other operators are not working 
+#print("Subraction of Dick and Pussy",Dick-Pussy) # Subraction
+#print("Multiplucation of Dick and Pussy",Dick*Pussy) # Multiplucation
+#print("Float Division of Dick and Pussy",Dick/Pussy) # Float Division
+#print("Modulus of Dick and Pussy",Dick%Pussy) # Modulus 
+# Bonus 
+#print("Power Multiplication of Dick and Pussy",Dick**Pussy) # Power Multiplication 
+#print("Intiger Division of Dick and Pussy",Dick//Pussy) # Intiger Division
