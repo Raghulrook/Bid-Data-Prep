@@ -26,11 +26,31 @@ else:
   print("Adam and Eval are not have same things")
 
 # See how the Nested If-Else is Works
-Good Knight ,Mortein ,All Out = format( 12, 10, 13)
-Mosquito Repellent = Good Knight ,Mortein ,All Out
-if (Mosquito Repellent>12):
-  print("Mosquito Repellent that works for more than needed {}".format(Good Knight ,Mortein ,All Out ))
-elif (Mosquito Repellent<10 and Mosquito Repellent<=12):
-   print("Mosquito Repellent that works for more than needed {}".format(Good Knight ,Mortein ,All Out ))
+Good_Knight = 12
+Mortein = 10
+All_Out = 13
+print("Mosquito Repellent that works Good Knight {}, Mortein {}, All Out {}".format(Good_Knight,Mortein,All_Out))
+if (Good_Knight>Mortein):
+    if (Good_Knight>All_Out):
+        print("Mosquito Repellent that works for more than needed Good Knight {}".format(Good_Knight))
+    else:
+        print("Mosquito Repellent that works for more than needed All Out {}".format(All_Out))
+elif (Mortein>All_Out):
+   print("Mosquito Repellent that works for more than needed Mortein {}".format(Mortein))
 else:
-  print("Mosquito Repellent that works for more than needed {}".format(Good Knight ,Mortein ,All Out ))
+  print("Mosquito Repellent that works for more than needed All Out {}".format(All_Out))
+  
+# See how the Nested If-Else is Works in user input
+Cello =input("Refillers by Cello Stand By Days ")
+Hero = input("Refillers by Hero Stand By Days ")
+Renolds = input("Refillers by Renolds Stand By Days ")
+print("Refillers that works \nCello {}\nHero {}\nRenolds {}".format(Cello,Hero,Renolds))
+if (Cello>Hero):
+    if (Cello>Renolds):
+        print("Refillers that works for more than needed Cello {}".format(Cello))
+    else:
+        print("Refillers that works for more than needed Renolds {}".format(Renolds))
+elif (Hero>Renolds):
+   print("Refillers that works for more than needed Hero {}".format(Hero))
+else:
+  print("Refillers that works for more than needed Renolds {}".format(Renolds))
