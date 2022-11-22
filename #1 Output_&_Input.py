@@ -32,21 +32,21 @@ print('The Value that changed from Float to Intiger',int(NO_rook))
 
 # Now see how to add a value to a stored value   
 
-Spank=120
-Spank=int(Spank)+23
-print("The Intiger that Crted or Edited after adding is",Spank)  
+Sponge=120
+Sponge=int(Sponge)+23
+print("The Intiger that Crted or Edited after adding is",Sponge)  
 
 # Now see how to add a value to a stored Decimal value  
 
-Plug=120.9
-Plug=float(Plug)+23.4
-print("The Float that Crted or Edited after adding is",Plug)  
+Plugins=120.9
+Plugins=float(Plugins)+23.4
+print("The Float that Crted or Edited after adding is",Plugins)  
  
 # Now see how to add a Word to a stored Word   
 
-Cliv='I 1 2'
-Cliv=str(Cliv)+' 4 Q'
-print("The Word that Crted or Edited after adding is",Cliv)  
+Pillar='I 1 2'
+Pillar=str(Pillar)+' 4 Q'
+print("The Word that Crted or Edited after adding is",Pillar)  
 
 # now Let see how to get the user intput and to diplay in the output
 
