@@ -18,8 +18,8 @@ else:
   print("Adam and Eval are not have same things")
   
 # See how the If-Else is Works on combination of Words and Numbers by user input
-Adam = input("Enter a things that own for Adam") 
-Eval = input("Enter a things that own for Eval") 
+Adam = input("Enter a things that own for Adam ") 
+Eval = input("Enter a things that own for Eval ") 
 if (Adam==Eval):
   print("Adam and Eval are have same things")
 else:
@@ -29,7 +29,7 @@ else:
 Good_Knight = 12
 Mortein = 10
 All_Out = 13
-print("Mosquito Repellent that works Good Knight {}, Mortein {}, All Out {}".format(Good_Knight,Mortein,All_Out))
+print("Mosquito Repellent that works \nGood Knight {}\nMortein {}\nAll Out {}".format(Good_Knight,Mortein,All_Out))
 if (Good_Knight>Mortein):
     if (Good_Knight>All_Out):
         print("Mosquito Repellent that works for more than needed Good Knight {}".format(Good_Knight))
