@@ -32,6 +32,10 @@ for spare in range(1,11):
 print("The Element In The List\n",A)
 print("The Length Of The List\n",len(A))
 
+# What will be the output ???
+list8 = [ 1 , 2 , 50, "Shashank", [6,6,6] , "Raghul"]
+print(len(list8)) 
+
 #see how to the list value in the indexes are same or not
 Aby = [1,'one.five',1.5]
 Bvi = [1.5,'one.five',1] #output will be false because the index value is interchanged even the value in the list are same
