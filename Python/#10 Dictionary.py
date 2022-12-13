@@ -1,5 +1,8 @@
-# Dictionary in Python
-dict1 = {}
+# Bid-Data-Prep
+## From Scratch To The Professional
+
+# How to Create An Empty Dictionary in Python
+dict_one = {}
 print(type(dict1))
 
 # How to insert values in Dictionary
