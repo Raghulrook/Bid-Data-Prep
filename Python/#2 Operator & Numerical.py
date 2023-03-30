@@ -13,48 +13,48 @@
 // for Intiger Division
  
 # like in Practically 
-Dick=5
-Pussy=10
+Table=5
+Mug=10
  
-print("Addition of Dick and Pussy",Dick+Pussy) # Addition
-print("Subraction of Dick and Pussy",Dick-Pussy) # Subraction
-print("Multiplucation of Dick and Pussy",Dick*Pussy) # Multiplucation
-print("Float Division of Dick and Pussy",Dick/Pussy) # Float Division
-print("Modulus of Dick and Pussy",Dick%Pussy) # Modulus 
+print("Addition of Table and Mug",Table+Mug) # Addition
+print("Subraction of Table and Mug",Table-Mug) # Subraction
+print("Multiplucation of Table and Mug",Table*Mug) # Multiplucation
+print("Float Division of Table and Mug",Table/Mug) # Float Division
+print("Modulus of Table and Mug",Table%Mug) # Modulus 
 
 # Bonus 
-print("Power Multiplication of Dick and Pussy",Dick**Pussy) # Power Multiplication 
-print("Intiger Division of Dick and Pussy",Dick//Pussy) # Intiger Division
+print("Power Multiplication of Table and Mug",Table**Mug) # Power Multiplication 
+print("Intiger Division of Table and Mug",Table//Mug) # Intiger Division
 
 # Arithimatic operators for words like in Practically 
-Dick="RO"
-Pussy="OK"
+Table="RO"
+Mug="OK"
 
-print("Addition of Dick and Pussy using words",Dick+Pussy) # Addition
+print("Addition of Table and Mug using words",Table+Mug) # Addition
 
 Rather Addtion other operators are not working 
-#print("Subraction of Dick and Pussy",Dick-Pussy) # Subraction
-#print("Multiplucation of Dick and Pussy",Dick*Pussy) # Multiplucation
-#print("Float Division of Dick and Pussy",Dick/Pussy) # Float Division
-#print("Modulus of Dick and Pussy",Dick%Pussy) # Modulus 
+#print("Subraction of Table and Mug",Table-Mug) # Subraction
+#print("Multiplucation of Table and Mug",Table*Mug) # Multiplucation
+#print("Float Division of Table and Mug",Table/Mug) # Float Division
+#print("Modulus of Table and Mug",Table%Mug) # Modulus 
 # Bonus 
-#print("Power Multiplication of Dick and Pussy",Dick**Pussy) # Power Multiplication 
-#print("Intiger Division of Dick and Pussy",Dick//Pussy) # Intiger Division
+#print("Power Multiplication of Table and Mug",Table**Mug) # Power Multiplication 
+#print("Intiger Division of Table and Mug",Table//Mug) # Intiger Division
 
 # Combination of Numaric and Variable like in Practically 
-Dick="ROOK"
-Pussy=10
+Table="ROOK"
+Mug=10
  
-print("Multiplying the Combination of Numaric and Variable-Dick and Pussy",Dick*Pussy) # Multiplucation
+print("Multiplying the Combination of Numaric and Variable-Table and Mug",Table*Mug) # Multiplucation
 
 Rather Multiplucation other operators are not working 
-#print("Addition of Dick and Pussy",Dick+Pussy) # Addition
-#print("Subraction of Dick and Pussy",Dick-Pussy) # Subraction
-#print("Float Division of Dick and Pussy",Dick/Pussy) # Float Division
-#print("Modulus of Dick and Pussy",Dick%Pussy) # Modulus 
+#print("Addition of Table and Mug",Table+Mug) # Addition
+#print("Subraction of Table and Mug",Table-Mug) # Subraction
+#print("Float Division of Table and Mug",Table/Mug) # Float Division
+#print("Modulus of Table and Mug",Table%Mug) # Modulus 
 # Bonus 
-#print("Power Multiplication of Dick and Pussy",Dick**Pussy) # Power Multiplication 
-#print("Intiger Division of Dick and Pussy",Dick//Pussy) # Intiger Division
+#print("Power Multiplication of Table and Mug",Table**Mug) # Power Multiplication 
+#print("Intiger Division of Table and Mug",Table//Mug) # Intiger Division
 
 # the Assignment operators that are used in python like they are assinging the value using some shortcuts
 =  , x = 5
