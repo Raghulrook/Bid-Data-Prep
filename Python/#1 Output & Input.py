@@ -25,7 +25,7 @@ print("The Data type format of DRD_rook",type(DRD_rook))
 NO_rook=143.9
 DEC_rook=3.5
 
-# just by adding the prefix name (Float and Int) we can change the nature
+# just buy adding the prefix name (Float and Int) we can change the nature
 
 print('The Value that changed from Intiger to Float ',float(NO_rook)) 
 print('The Value that changed from Float to Intiger',int(NO_rook))
@@ -50,15 +50,17 @@ print("The Word that Crted or Edited after adding is",Pillar)
 
 # now Let see how to get the user intput and to diplay in the output
 
-Propeties_1=str(input("Enter the Properties need to by..."))
-Propeties_2=int(input("Enter the Properties Count need to by..."))
+Propeties_1=str(input("Enter the Properties need to buy..."))
+Propeties_2=int(input("Enter the Properties Count need to buy..."))
 
 # as we noted the header now the output section
 
-print("The Properties need to by...",Propeties_1)
-print("The Properties Count need to by...",Propeties_2)
+print("The Properties need to buy...",Propeties_1)
+print("The Properties Count need to buy...",Propeties_2)
 
 # let see the data type of each input
 
 print("the data type of given properties are",type(Propeties_1))
 print("the data type of given properties count are",type(Propeties_2))
+# Bid-Data-Prep
+# From Scratch To The Professional
