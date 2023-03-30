@@ -41,16 +41,17 @@ else:
   print("Mosquito Repellent that works for more than needed All Out {}".format(All_Out))
   
 # See how the Nested If-Else is Works in user input
-Cello =input("Refillers by Cello Stand By Days ")
+Cello = input("Refillers by Cello Stand By Days ")
 Hero = input("Refillers by Hero Stand By Days ")
 Renolds = input("Refillers by Renolds Stand By Days ")
 print("Refillers that works \nCello {}\nHero {}\nRenolds {}".format(Cello,Hero,Renolds))
-if (Cello>Hero):
-    if (Cello>Renolds):
+if (Cello>=Hero):
+    if (Cello>=Renolds):
         print("Refillers that works for more than needed Cello {}".format(Cello))
     else:
         print("Refillers that works for more than needed Renolds {}".format(Renolds))
-elif (Hero>Renolds):
+elif (Hero>=Renolds):
    print("Refillers that works for more than needed Hero {}".format(Hero))
 else:
   print("Refillers that works for more than needed Renolds {}".format(Renolds))
+  
